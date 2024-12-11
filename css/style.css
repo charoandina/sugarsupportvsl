@@ -1713,6 +1713,9 @@ footer ul li a{
         flex-direction: column;
         gap: 20px;
     }
+    .title-container{
+        height: 500px;
+    }
 }
 
 .hide{
